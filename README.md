@@ -40,7 +40,7 @@ Example:
 
 You can add multiple screenshots:
 
-```markdown
+markdown
 ![Home Page](screenshot1.png)
 
 ![Study Content](screenshot2.png)
@@ -48,7 +48,7 @@ You can add multiple screenshots:
 ![Learning Section](screenshot3.png)
 
 ![Website View](screenshot4.png)
-```
+
 
 
 ## How to Run
