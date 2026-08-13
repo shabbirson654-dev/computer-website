@@ -1,0 +1,48 @@
+
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    overflow-x: hidden;
+}
+
+#c_history{
+            font-size: 17px;
+            font-family: sans-serif;
+            
+            line-height: 35px;
+        }
+.family{
+            font-family: sans-serif;
+        }
+        .image{
+            width: 350px;
+            height: 350px;
+        }
+        .color{
+            background-color: black;
+            color: white;
+        }
+        .c{
+            color: brown;
+        }
+        .margin{
+            margin-top: 27px;
+        }
+.cl{
+font-size:20px;}
+
+
+.fonti{
+    color:white;
+    font-size:15px;
+    font-weight:bold;
+}
+
+li:hover{
+   
+    color:blue;
+}
