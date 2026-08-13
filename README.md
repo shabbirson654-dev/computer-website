@@ -50,19 +50,6 @@ You can add multiple screenshots:
 ![Website View](screenshot4.png)
 ```
 
-## How to Add Screenshots
-
-Rename your screenshots like this:
-
-```text
-screenshot1.png
-screenshot2.png
-screenshot3.png
-screenshot4.png
-```
-
-Then place them in the same folder as your `README.md`.
-
 
 ## How to Run
 
